@@ -16,7 +16,7 @@
 .header {
   text-align: center;
   color: white;
-  background-image: url("../images/Banner Image.png");
+  background-image: url("./images/Banner Image.png");
   background-repeat: no-repeat;
   height: 600px;
   font-weight: 632;
@@ -48,7 +48,7 @@
 
 /* section 2 */
 .second-section {
-  background-image: url("../images/vectorrr.png");
+  background-image: url("./images/vectorrr.png");
   background-repeat: no-repeat;
   height: 600px;
   width: 1320px;
@@ -191,7 +191,7 @@
   align-items: center;
   align-items: center;
   margin: 0 auto;
-  background-image: url("../images/Rectangle 2.png");
+  background-image: url("./images/Rectangle 2.png");
   background-repeat: no-repeat;
   background-position: bottom;
 }
